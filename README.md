@@ -99,4 +99,16 @@ The trends of casino technology:
     + Video camera
     + Wearble sensors
     + Floor sensors
-  + Provider: Nhiều nhà cung cấp camera surveillance for casino mà bạn có thể tìm kiếm thông qua đối tác, tạp chí, internet,...
+   + Provider: Nhiều nhà cung cấp camera surveillance for casino mà bạn có thể tìm kiếm thông qua đối tác, tạp chí, internet,...
++ Gambling Online:
+  + Đây là 1 trong vô vàn website casino đang hoạt động: https://us.888casino.com/, https://www.casinolasvegas.com/, http://www.onlinecasinosvegas.com/,...
+  + [AIS Technolabs](https://www.aistechnolabs.com/)
+  
+    ![](https://qph.fs.quoracdn.net/main-qimg-d86a8eb9a95584a2610c719af699a0f1)
+  + [Mobzway Technologies](https://www.mobzway.com/)
+  + [NetEnt](https://www.netent.com/en/)
+  + [Microgaming](https://www.microgaming.co.uk/)
+  + [BetSoft](https://betsoft.com/)
+  + [Endorphina](https://endorphina.com/partners)
+  + Source code: https://gitlab.com/flightstar/casino-server
+
