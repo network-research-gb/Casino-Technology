@@ -67,6 +67,10 @@ The trends of casino technology:
 
 + Technologically Advanced Compliance Solutions (Giải pháp người chơi tuân thủ các công nghệ tiên tiến)
 + An Added Layer of Security With MPLS (Thêm layer bảo mật MPLS - MultiProtocol Label Switching)
-+ Encryption Protects Your Money (Mã hóa tiền tệ)
+  **Là một loại kỹ thuật phân phát gói tin từ nguồn tới đích cho các mạng viễn thông hiệu suất cao. MPLS gửi dữ liệu từ một nút mạng tới nút tiếp theo dựa trên các nhãn đường dẫn ngắn hơn là các địa chỉ mạng dường dài, tránh các tra cứu phức tạp trong một bảng định tuyến. Sòng bạc di chuyển rất nhiều tiền, vì vậy nó hoạt động có lợi cho họ để sử dụng hệ thống MPLS.** Trên thực tế, Las Vegas có một trong những hệ thống mạng tốc độ cao, diện rộng tiên tiến nhất trên lục địa. Không có gì tồi tệ hơn một người chơi yêu cầu anh ta hoặc cô ta và một chủ sòng bạc tranh giành giấy tờ hoặc một mạng chậm. 
+  
+  **Cài đặt mạng MPLS**
 
++ Encryption Protects Your Money (Mã hóa tiền tệ)
+  Bất kể bạn đang đánh bạc trực tuyến, ở Thành phố Atlantic hay ở nơi nào khác, một trong những vấn đề chính mà các sòng bạc phải đối mặt hiện nay là việc vận chuyển thông tin và tiền an toàn qua các con đường điện tử. Để thực hiện được kỳ tích vĩ đại này, các nhà khai thác sử dụng mã hóa hạng nặng. Hầu hết các cơ sở đánh bạc sử dụng các công cụ mã hóa giống nhau và công cụ mã hóa đó đang được sử dụng bởi các cơ quan chính phủ.
 
