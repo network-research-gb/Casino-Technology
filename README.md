@@ -99,4 +99,4 @@ The trends of casino technology:
     + Video camera
     + Wearble sensors
     + Floor sensors
-  + Provider:
+  + Provider: Nhiều nhà cung cấp camera surveillance for casino mà bạn có thể tìm kiếm thông qua đối tác, tạp chí, internet,...
