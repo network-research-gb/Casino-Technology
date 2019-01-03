@@ -72,5 +72,6 @@ The trends of casino technology:
   **Cài đặt mạng MPLS**
 
 + Encryption Protects Your Money (Mã hóa tiền tệ)
+
   Bất kể bạn đang đánh bạc trực tuyến, ở Thành phố Atlantic hay ở nơi nào khác, một trong những vấn đề chính mà các sòng bạc phải đối mặt hiện nay là việc vận chuyển thông tin và tiền an toàn qua các con đường điện tử. Để thực hiện được kỳ tích vĩ đại này, các nhà khai thác sử dụng mã hóa hạng nặng. Hầu hết các cơ sở đánh bạc sử dụng các công cụ mã hóa giống nhau và công cụ mã hóa đó đang được sử dụng bởi các cơ quan chính phủ.
 
