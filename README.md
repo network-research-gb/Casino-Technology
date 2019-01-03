@@ -1,6 +1,7 @@
 # Casino Technology
 Tôi giới thiệu điểm qua một vài xu hướng tại những sòng bạc lớn nhỏ trên thế giới rồi tiến hành thực thi giải pháp công nghệ. Hầu hết các giải pháp đều bảo vệ sự an toàn khách hàng khỏi những **sói già sòng bạc**. 
 
+## Introduction
 
 The trends of casino technology:
 + GPS and RFID in user experience
@@ -75,3 +76,20 @@ The trends of casino technology:
 
   Bất kể bạn đang đánh bạc trực tuyến, ở Thành phố Atlantic hay ở nơi nào khác, một trong những vấn đề chính mà các sòng bạc phải đối mặt hiện nay là việc vận chuyển thông tin và tiền an toàn qua các con đường điện tử. Để thực hiện được kỳ tích vĩ đại này, các nhà khai thác sử dụng mã hóa hạng nặng. Hầu hết các cơ sở đánh bạc sử dụng các công cụ mã hóa giống nhau và công cụ mã hóa đó đang được sử dụng bởi các cơ quan chính phủ.
 
+## Case study
++ Facial Recognition a Sure Bet for Casino Security:
+  + Nhận dạng khuôn mặt:
+    
+  + Nhận dạng dáng đi:
+    + Gait recognition using wifi signals: 
+      + COTS (Commercial off-the-shelf - thành phần thương mại) devices for gait based human authentication and identification.
+      + Signal processing for converting raw noisy WiFi signals to high-fidelity spectrograms.
+      + Convert spectrograms to gait features
+    + Gait recognition using deep learning:
+      
+      ![](https://lh3.googleusercontent.com/uBPFihR3gagkGod19hGMaDE62SBh-4wjeaSMkGFpv24tSgEm9xktcnL0BQH6v9TVQzhlBb39XiRRd8A3is5Cza7ldgcYlwjS1HeAageHJiWStj-6TIjIh34XLBho4-GdIhO1FN-be9dtnMoyB1TDKYYNZtwj-jR_c5aubr7Suy_TVXqetQlR0IntiazfphKnI6WoYNa5BlTGxO6UKOQh894ORphpr8c4H1a6-eqK9mMoMO9xj1V7fuDV1017-npleXRZ_FV5fKVxhalfN7wkIKJNN9lhdn-tYV_lxzRKr1XtyMLiPqt_EhRUgIlDcxF4h2Dh7xxuyvdvZO32dvWcdlzpQwK50-wRm_Wa0XioqC2aR9Dz7a4yGwtobjbAoq5iMoaoPTx35zo7H9oILclnxmUY81oyU81YLedEC6GGM4-lAhLprOYiLQ210of-3spSYJCT_KDHZHe3LSovmqkL91c0Mqx1qllPJnje8SPrYfw7TlkvsXnVeWx4n7r7bN9idcd5UMSQxm_ykxn-XxQIY8V_uy9TYPLVWAsNiS6V-YS6G_sK4I1-pUqIBbmwSNTjkP9HfoCBbTIT5UQoDNUYHW6lRJKQjG_7TJ9vV-8x9SoDcIoiVR1WtjufD95L_Z0AlDg1Eufr3vfC3cHoi6bZdVffh7p2lSL26AI7fF_fF6vb94jjlsDW27qzChwM0vbV80OeLiEYNdQ84R-r3Q=w662-h642-no)
+      
+    + Video camera
+    + Wearble sensors
+    + Floor sensors
+  + Provider:
