@@ -78,10 +78,14 @@ The trends of casino technology:
 
 ## Case study
 + Facial Recognition a Sure Bet for Casino Security:
+  + Nhận dạng con người: Lĩnh vực này rất khó trong Somatomancy (nhân tướng học) 
   + Nhận dạng khuôn mặt:
     
   + Nhận dạng dáng đi:
     + Gait recognition using wifi signals: 
+      + Human body reflects wireless signals
+      + Chanel State Information (CSI) has huge amount of useful information about environmental changes
+      + Commercial WiFi devices can act as [Doppler Radars](https://en.wikipedia.org/wiki/Doppler_radar) to measure human activities
       + COTS (Commercial off-the-shelf - thành phần thương mại) devices for gait based human authentication and identification.
       + Signal processing for converting raw noisy WiFi signals to high-fidelity spectrograms.
       + Convert spectrograms to gait features
